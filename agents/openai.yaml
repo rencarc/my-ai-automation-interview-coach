@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI Automation Interview Coach"
+  short_description: "Personal interview prep for AI automation, RAG, Power Platform, and secure workflows"
+policy:
+  allow_implicit_invocation: true
